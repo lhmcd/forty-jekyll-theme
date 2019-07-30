@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Hi, my name is LeAnn'
+description: I'm a junior studying Information Science at Cornell University. 
 image: null
 author: null
 show_tile: false
