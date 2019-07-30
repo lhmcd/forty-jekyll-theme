@@ -37,9 +37,11 @@
 			z-index: 1;
 		}
 
+		p { 
+			color: #000000 !important;
 		h1 {
 			font-size: 3.25em;
-			color: black;
+			color: black !important;
 		}
 
 		> .inner {
