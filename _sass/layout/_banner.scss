@@ -37,7 +37,11 @@
 			z-index: 1;
 		}
 		
-		.button.next.scrolly {
+		.button {
+			color: black !important;
+		}
+		
+		.button::before {
 			color: black !important;
 		}
 		
