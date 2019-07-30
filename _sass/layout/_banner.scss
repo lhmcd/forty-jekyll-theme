@@ -25,7 +25,7 @@
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('transition-delay', '0.75s');
 			@include vendor('pointer-events', 'none');
-			background-color: white;
+			/*background-color: white; */
 			content: '';
 			display: block;
 			height: 100%;
@@ -37,7 +37,7 @@
 			z-index: 1;
 		}
 		
-		.actions {
+		.button, .next, .scrolly {
 			color: black !important;
 		}
 		
@@ -46,9 +46,6 @@
 			font-size: 3.25em;
 			color: black !important;
 			
-			::after {
-				color: #000000 !important;
-			}
 		}
 
 		> .inner {
