@@ -11,6 +11,7 @@
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		border-bottom: 0 !important;
+		background-color: white;
 		color: white;
 		cursor: default;
 		height: 60vh;
@@ -38,6 +39,7 @@
 
 		h1 {
 			font-size: 3.25em;
+			font-color: black;
 		}
 
 		> .inner {
