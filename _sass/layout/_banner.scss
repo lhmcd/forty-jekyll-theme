@@ -48,6 +48,10 @@
 		h1 {
 			font-size: 3.25em;
 			color: black !important;
+			
+			::after {
+				color: #000000 !important;
+			}
 		}
 
 		> .inner {
