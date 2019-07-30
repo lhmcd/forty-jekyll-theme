@@ -26,6 +26,9 @@
 		}
 		
 		h2 {
-			color: black;
+			color: black !important;
 		}
+		
+		&.after {
+			color: black !important;
 	}
