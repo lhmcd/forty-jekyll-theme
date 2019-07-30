@@ -56,12 +56,14 @@
 			&:hover {
 				strong {
 					background-color: #fe7171 !important;
+					color: white !important;
 				}
 			}
 
 			&:active {
 				strong {
 					background-color: desaturate(darken(#fe7171 , 15), 5);
+					color: white !important;
 				}
 			}
 		}
@@ -86,6 +88,7 @@
 
 				&:last-child {
 					padding-right: 1.5em;
+					color: white;
 				}
 
 				&[href="#menu"] {
