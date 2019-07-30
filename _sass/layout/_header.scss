@@ -45,8 +45,8 @@
 					'background-color #{_duration(transition)} ease-in-out',
 					'color #{_duration(transition)} ease-in-out'
 				));
-				background-color: white;
-				color:white;
+				background-color: white !important;
+				color:black;
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
