@@ -48,10 +48,12 @@
 			font-size: 3.25em;
 			color: black !important;
 			
-		}
-		h1::after {
+			&:after {
 			color: black !important;
+			}
+			
 		}
+
 
 		> .inner {
 			@include vendor('transition', (
