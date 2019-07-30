@@ -51,13 +51,13 @@
 
 			&:hover {
 				strong {
-					background-color: #fe7171;
+					background-color: #fe7171 !important;
 				}
 			}
 
 			&:active {
 				strong {
-					background-color: desaturate(darken(_palette(highlight), 15), 5);
+					background-color: desaturate(darken(#fe7171 , 15), 5);
 				}
 			}
 		}
