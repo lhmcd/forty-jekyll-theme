@@ -37,8 +37,7 @@
 			z-index: 1;
 		}
 
-		p { 
-			color: #000000 !important;
+
 		h1 {
 			font-size: 3.25em;
 			color: black !important;
@@ -90,6 +89,7 @@
 					font-weight: _font(weight-bold);
 					letter-spacing: _font(letter-spacing-alt);
 					text-transform: uppercase;
+					color: #000000 !important;
 				}
 			}
 		}
