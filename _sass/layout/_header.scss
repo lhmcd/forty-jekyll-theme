@@ -36,14 +36,17 @@
 			height: inherit;
 			line-height: inherit;
 			padding: 0 1.5em;
+			span {
+				color: white !important;
+			}
 
 			strong {
 				@include vendor('transition', (
 					'background-color #{_duration(transition)} ease-in-out',
 					'color #{_duration(transition)} ease-in-out'
 				));
-				background-color: black;
-				color:white;
+				background-color: white;
+				color:black;
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
@@ -135,6 +138,7 @@
 			@include vendor('transition-delay', '0.75s');
 			@include vendor('animation', 'none');
 			background-color: black;
+			color: black;
 			box-shadow: none;
 			position: absolute;
 
