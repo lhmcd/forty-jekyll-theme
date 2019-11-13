@@ -8,4 +8,6 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+I’m a junior pursuing a B.A. in  Information Science at Cornell University. I have a diverse background and interest in several STEM fields. My experience includes roles ranging from aerospace data analysis to web design.
+
+I'm enthusiastic, observant, and curious which means I'm always looking to learn something new. In my free time, you can find me reading a good book, writing, learning photography or relaxing on Libe Slope when it isn't freezing outside.
